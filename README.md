@@ -44,9 +44,6 @@
   <img src="https://github-readme-stats-agugi-s.vercel.app/api/top-langs/?username=AGUGIs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&v=2" alt="langs" width="48%" />
 </p>
 
-
-### 📊 GitHub Stats
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGUGIs/AGUGIs/output/github-snake-dark.svg" />
