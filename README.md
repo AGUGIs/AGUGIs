@@ -3,6 +3,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://animation.99px.ru/animations/40153/" alt="banner" width="600" />
+</p>
+
+---
+
 ### 🛠 Tech Stack
 
 **Languages:**
