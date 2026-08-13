@@ -54,13 +54,11 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/AGUGIs">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:you@example.com">
+  
+  <a href="mailto:kirillch03@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -68,5 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AGUGIs&style=flat-square&color=blue" alt="Profile views" />
 </p>
