@@ -37,13 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-agugi-s.vercel.app/api?username=AGUGIs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&v=2" alt="stats" width="48%" />
-  <img src="https://github-readme-stats-agugi-s.vercel.app/api/top-langs/?username=AGUGIs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&v=2" alt="langs" width="48%" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGUGIs/AGUGIs/output/github-snake-dark.svg" />
