@@ -1,18 +1,11 @@
-<!-- Анимированный баннер-печать -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kirill;Full-Stack+Developer;C%23+%E2%80%A2+Python+%E2%80%A2+React;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
+<!-- ===== ШАПКА: градиентная волна + анимированный текст поверх ===== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&animation=twinkling" alt="header-bg" />
+</div>
 
-<!-- Градиентный заголовок -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Kirill&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20•%20C%23%20•%20Python%20•%20React&descAlignY=58&descSize=22&animation=twinkling" alt="header" />
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A0A0A0&center=true&vCenter=true&width=600&lines=Building+things+that+work+%E2%9A%99%EF%B8%8F;Clean+code+%7C+Good+design+%7C+Coffee+%E2%98%95" alt="sub" />
-  </a>
-</p>
+<div align="center" style="margin-top:-150px; margin-bottom:40px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Kirill;Full-Stack+Developer;C%23+%E2%80%A2+Python+%E2%80%A2+React;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -46,7 +39,7 @@
 
 ### 📊 GitHub Stats
 
-<!-- ⚠️ Замени ТВОЙ-ДОМЕН на свой домен Vercel из предыдущих шагов -->
+<!-- ⚠️ Замени ТВОЙ-ДОМЕН на свой домен Vercel -->
 <p align="center">
   <img src="https://ТВОЙ-ДОМЕН.vercel.app/api?username=AGUGIs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats" width="48%" />
   <img src="https://ТВОЙ-ДОМЕН.vercel.app/api/top-langs/?username=AGUGIs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="langs" width="48%" />
@@ -75,7 +68,4 @@
   <img src="https://komarev.com/ghpvc/?username=AGUGIs&style=flat-square&color=blue&label=Profile+views" alt="views" />
 </p>
 
-<!-- Волна-разделитель в футер -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
-</p>
+<!-- ===== ФУТЕР
