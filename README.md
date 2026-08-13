@@ -39,8 +39,6 @@
 
 ### 📊 GitHub Stats
 
-<### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-agugi-s.vercel.app/api?username=AGUGIs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats" width="48%" />
   <img src="https://github-readme-stats-agugi-s.vercel.app/api/top-langs/?username=AGUGIs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="langs" width="48%" />
@@ -65,4 +63,7 @@
   <img src="https://komarev.com/ghpvc/?username=AGUGIs&style=flat-square&color=blue&label=Profile+views" alt="views" />
 </p>
 
-<!-- ===== ФУТЕР
+<!-- ===== ФУТЕР: волна ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+</p>
