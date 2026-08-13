@@ -5,7 +5,7 @@
 
 <!-- Градиентный заголовок -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kirill%20%F0%9F%9A%80&fontSize=70&fontAlignY=35&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Kirill&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20•%20C%23%20•%20Python%20•%20React&descAlignY=58&descSize=22&animation=twinkling" alt="header" />
 </h1>
 
 <p align="center">
