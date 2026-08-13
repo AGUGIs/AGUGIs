@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">[Краткое описание: Full-Stack Developer / etc.]</h3>
+<h1 align="center">Hi 👋, I'm [Kirill]</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 ---
 
@@ -27,22 +27,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-ten-gamma.vercel.app/api?username=AGUGIs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AGUGIs&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-ten-gamma.vercel.app/api/top-langs/?username=AGUGIs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
