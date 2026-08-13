@@ -39,14 +39,11 @@
 
 ### 📊 GitHub Stats
 
-<!-- ⚠️ Замени ТВОЙ-ДОМЕН на свой домен Vercel -->
-<p align="center">
-  <img src="https://ТВОЙ-ДОМЕН.vercel.app/api?username=AGUGIs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats" width="48%" />
-  <img src="https://ТВОЙ-ДОМЕН.vercel.app/api/top-langs/?username=AGUGIs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="langs" width="48%" />
-</p>
+<### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AGUGIs&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+  <img src="https://github-readme-stats-agugi-s.vercel.app/api?username=AGUGIs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats" width="48%" />
+  <img src="https://github-readme-stats-agugi-s.vercel.app/api/top-langs/?username=AGUGIs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="langs" width="48%" />
 </p>
 
 ---
